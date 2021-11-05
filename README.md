@@ -4,4 +4,4 @@
  (none)
 
  # PR URL
- [PR](https://github.com/AbrarAlzubaidi/math-series)
+ [PR](https://github.com/AbrarAlzubaidi/math-series/pull/1)
